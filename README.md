@@ -1,2 +1,2 @@
-# VITBML-EDA3
+# Assignments
 
